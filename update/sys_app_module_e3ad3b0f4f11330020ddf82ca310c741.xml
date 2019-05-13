@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Cisco-Infrastructure">83adb70f4f11330020ddf82ca310c72b</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Cisco-Infrastructure Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_305159_cisco_inf_cisco_infrastructure_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_305159_cisco_inf.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 20:15:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3ad3b0f4f11330020ddf82ca310c741</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cisco-Infrastructure Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
+        <sys_update_name>sys_app_module_e3ad3b0f4f11330020ddf82ca310c741</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 20:15:55</sys_updated_on>
+        <timeline_page/>
+        <title>Cisco-Infrastructure Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
