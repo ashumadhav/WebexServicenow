@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category/>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
         <description/>
         <device_type>browser</device_type>
         <hint/>
@@ -15,7 +15,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>83adb70f4f11330020ddf82ca310c72b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Cisco-Infrastructure</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
@@ -23,7 +23,7 @@
         <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
         <sys_update_name>sys_app_application_83adb70f4f11330020ddf82ca310c72b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-13 20:15:53</sys_updated_on>
+        <sys_updated_on>2019-05-16 14:46:43</sys_updated_on>
         <title>Cisco-Infrastructure</title>
         <view_name/>
     </sys_app_application>
