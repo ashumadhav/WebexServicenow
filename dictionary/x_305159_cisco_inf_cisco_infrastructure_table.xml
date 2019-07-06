@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="task" label="Cisco-Infrastructure Table" max_length="40" name="x_305159_cisco_inf_cisco_infrastructure_table" type="collection">
+    <element attributes="live_feed=true" extends="task" label="Cisco-Infrastructure Table" max_length="40" name="x_305159_cisco_inf_cisco_infrastructure_table" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" default="8005551212" label="Phone number" mandatory="true" max_length="10" name="u_dn_phone_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="wash_dc" label="Phone location" mandatory="true" max_length="40" name="u_phone_location" type="string">
             <choice>
