@@ -6,41 +6,39 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_305159_cisco_inf_cisco_infrastructure_table">stateNOT IN3,4^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
-        <hint>A list of records in the NeedIt table which do not have a State value of Closed.</hint>
+        <filter/>
+        <hint>List of all NeedIt records in the database</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Cisco-Infrastructure Table</mobile_title>
+        <mobile_title>All</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_305159_cisco_inf_cisco_infrastructure_table</name>
-        <order>300</order>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_305159_cisco_inf.user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-13 20:15:55</sys_created_on>
+        <sys_created_on>2019-05-16 14:16:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e3ad3b0f4f11330020ddf82ca310c741</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Open</sys_name>
+        <sys_id>28c7ca404f21330020ddf82ca310c7d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
-        <sys_update_name>sys_app_module_e3ad3b0f4f11330020ddf82ca310c741</sys_update_name>
+        <sys_update_name>sys_app_module_28c7ca404f21330020ddf82ca310c7d1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-16 14:43:48</sys_updated_on>
+        <sys_updated_on>2019-05-16 14:16:21</sys_updated_on>
         <timeline_page/>
-        <title>Open</title>
+        <title>All</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

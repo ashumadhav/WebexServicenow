@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_305159_cisco_inf_cisco_infrastructure_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_userid" table="x_305159_cisco_inf_cisco_infrastructure_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>live_feed=true</attributes>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Requested for userID</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,13 +23,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_userid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
-        <mandatory>false</mandatory>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_305159_cisco_inf_cisco_infrastructure_table</name>
         <next_element/>
@@ -48,21 +43,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>1</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-13 20:15:54</sys_created_on>
-        <sys_id>1fad3b0f4f11330020ddf82ca310c71e</sys_id>
+        <sys_created_on>2019-05-16 00:05:28</sys_created_on>
+        <sys_id>3565c37b4f11330020ddf82ca310c7e5</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_305159_cisco_inf_cisco_infrastructure_table</sys_name>
+        <sys_name>Requested for userID</sys_name>
         <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
-        <sys_update_name>sys_dictionary_x_305159_cisco_inf_cisco_infrastructure_table_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_305159_cisco_inf_cisco_infrastructure_table_u_userid</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-13 20:15:54</sys_updated_on>
+        <sys_updated_on>2019-05-16 00:05:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

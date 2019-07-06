@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Authorization</name>
+        <rest_message display_value="Cisco Webex Integration">b71abe0c4f61330020ddf82ca310c730</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-16 18:01:28</sys_created_on>
+        <sys_id>542a7a0c4f61330020ddf82ca310c7cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Authorization</sys_name>
+        <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
+        <sys_update_name>sys_rest_message_headers_542a7a0c4f61330020ddf82ca310c7cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-16 18:01:28</sys_updated_on>
+        <value>Bearer OWQ0ODgzOTgtYTU2MC00ZGU3LWI5ZDMtNzQxNzIwMGM5MmE5Yzk0OTBjYzItOGFh_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f</value>
+    </sys_rest_message_headers>
+</record_update>
