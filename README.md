@@ -44,7 +44,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 ### **Add ServiceNow app from repo to your Dev instance**
 
-1. git clone https://github.com/pselker2/Cloned-from-servicenow-training-needit.git to a public repo like GitHub to enable the ServiceNow Dev instance to access it
+1. git clone https://github.com/pselker2/SNOW-WebexTeams-Infrastructure.git to a public repo like GitHub to enable the ServiceNow Dev instance to access it
 2. ServiceNow Navigator > Studio
     - A new browser tab opens with the Load Application window
     - Select Import From Source Control
