@@ -49,15 +49,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-16 00:05:28</sys_created_on>
-        <sys_id>f565c37b4f11330020ddf82ca310c7ee</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>f90675684f62330020ddf82ca310c796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Phone type</sys_name>
         <sys_package display_value="Cisco-Infrastructure" source="x_305159_cisco_inf">3aadb30b4f11330020ddf82ca310c748</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cisco-Infrastructure">3aadb30b4f11330020ddf82ca310c748</sys_scope>
         <sys_update_name>sys_dictionary_x_305159_cisco_inf_cisco_infrastructure_table_u_phone_type</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-16 00:05:29</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-06 19:16:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
