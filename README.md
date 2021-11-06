@@ -3,9 +3,9 @@
 
 ### **Overview**
 
-ServiceNow will provide the user interface to gather the necessary information for your solution to accomplish the desired task(s).  Webex Teams will be the conduit to extract the information from ServiceNow and deliver it to your solution. 
+ServiceNow will provide the user interface to gather the necessary information for your solution to accomplish the desired task(s).  Webex will be the conduit to extract the information from ServiceNow and deliver it to your solution. 
 
-A complete solution will need two Webex Teams Bots.  This workshop will  show you how to create the first Bot that sends the information from ServiceNow to Webex Teams.  The second Bot will take the information from Webex Teams and use it to interact with your solution.  The second Bot is not part of this workshop.
+A complete solution will need two Webex Bots.  This workshop will  show you how to create the first Bot that sends the information from ServiceNow to Webex.  The second Bot will take the information from Webex Teams and use it to interact with your solution.  The second Bot is not part of this workshop.
 
 ---
 
@@ -13,9 +13,9 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 - [ServiceNow account and Developer instance](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#servicenow-account-and-developer-instance)
 - [Add ServiceNow app from repo to your Dev instance](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#add-servicenow-app-from-repo-to-your-dev-instance)
-- [Create Webex Teams Bot](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#create-webex-teams-bot)
-- [Add Bot to a Webex Teams space](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#add-bot-to-a-webex-teams-space)
-- [Get Webex Teams roomId](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#get-webex-teams-roomid)
+- [Create Webex Bot](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#create-webex-teams-bot)
+- [Add Bot to a Webex space](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#add-bot-to-a-webex-teams-space)
+- [Get Webex roomId](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#get-webex-teams-roomid)
 - [Add Bot Access Token and roomId to ServiceNow app](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#add-bot-access-token-and-roomid-to-servicenow-app)
 - [Validate](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#validate)
 - [Modify ServiceNow Form to meet your requirements](https://github.com/pselker2/SNOW-WebexTeams-Infrastructure/#modify-servicenow-form-to-meet-your-requirements)
@@ -32,7 +32,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 4. Start Dev Instance by clicking on URL
     - URL looks like:  https://dev12345.service-now.com/
 4. Optional: Take the following courses: 
-    (developer.servicenow.com menu: Learn > Training):
+    (developer.servicenow.com menu: Learn > Courses):
     - ServiceNow Basics
     - ServiceNow Studio
     - Build My First Application
@@ -55,7 +55,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 ---
 
-### **Create Webex Teams Bot**
+### **Create Webex Bot**
 
 1. Log in on [developer.webex.com](https://https://developer.webex.com) (Sign up if you need an account)
 2. Click on the "Start Building Apps" button
@@ -70,8 +70,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 1. Create a space for testing the Bot you just created
 2. Add your new Bot to the space
-    - Click the circle with six dots in the upper right corner of the space
-    - Click the People circle
+    - Click people at the top of the space
     - Click the Add people circle
     - Type the Bot Username (example@webex.bot)
     
@@ -81,7 +80,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 1. Log in on [developer.webex.com](https://https://developer.webex.com)
 2. Click on the "Documentation" 
-3. Click on "API Reference" on the left side
+3. Click on "Full API Reference" on the left side
 4. Click on "Teams" on the left side
 5. Click on the Get Method url with the Description List Teams
 6. Click the yellow "Run" button on the right side
@@ -128,7 +127,7 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 
 1. In the Studio browser tab click on "Cisco-Infrastructure Table[Default view]" under "Forms" in the left pane
 2. Modify the form in right pane to accomodate your solution
-    - If you need help modifying the form, see the "Working with Fields" exercise in the "Building the NeedIt Application" training module.  The module can be found by starting on the Developer main menu > Learn > Training.
+    - If you need help modifying the form, see the "Working with Fields" exercise in the "Building the NeedIt Application" training module.  The module can be found by starting on the Developer main menu > Learn > Courses.
     
 ---
 
