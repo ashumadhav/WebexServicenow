@@ -27,11 +27,10 @@ A complete solution will need two Webex Teams Bots.  This workshop will  show yo
 ### **ServiceNow account and Developer instance**
 
 1. Create an account on [developer.servicenow.com](https://developer.servicenow.com)  
-2. Log in and navigate to Manage > Instance
+2. Log in and click "Start Building"
 3. Request Instance
-    - There are several versions (Choose Kingston if no preference)
 4. Start Dev Instance by clicking on URL
-    URL looks like:  https://dev12345.service-now.com/
+    - URL looks like:  https://dev12345.service-now.com/
 4. Optional: Take the following courses: 
     (developer.servicenow.com menu: Learn > Training):
     - ServiceNow Basics
